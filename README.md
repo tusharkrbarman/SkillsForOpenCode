@@ -1,4 +1,4 @@
-# SkillsForOpenCode
+# skills-for-open-code
 
 A comprehensive collection of specialized skills, agents, and workflows designed to supercharge your AI-assisted development experience.
 
